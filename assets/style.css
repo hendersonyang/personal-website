@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    font: normal 75% Arial, Helvetica, sans-serif;
+}
+
+center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+img {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-top: 0px;
+}
+
+bottom {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#profile {
+    position: absolute;
+    width: 25%;
+    height: 50%;
+    left: 0px;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+#projects {
+    position: absolute;
+    width: 25%;
+    height: 50%;
+    right: 0px;
+    margin-right: 15%;
+    margin-top: 10%;
+}
+
+#particles-js {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #3b96d9;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+}
