@@ -32,6 +32,13 @@ bottom {
     margin-bottom: 10px;
 }
 
+#notice {
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 4%;
+    color: rgb(53, 54, 61);
+}
+
 #profile {
     position: absolute;
     width: 25%;
