@@ -7,7 +7,7 @@ let windowwidth = window.innerWidth
 windowwidth -= 300
 setInterval(()=>{
   windowwidth -= 1
-  if (windowwidth < -100) {
+  if (windowwidth < -300) {
     windowwidth = window.innerWidth
     return
   }
