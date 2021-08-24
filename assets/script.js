@@ -9,6 +9,7 @@ setInterval(()=>{
   windowwidth -= 1
   if (windowwidth < -300) {
     windowwidth = window.innerWidth
+    windowwidth -= 300
     return
   }
   document.getElementById("notice").style.marginLeft = `${windowwidth}px`

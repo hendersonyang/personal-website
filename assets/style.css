@@ -26,10 +26,17 @@ img {
 
 h1 {
     margin-bottom: 0px;
+    font-family: "sourcecodepro";
 }
 
 h2 {
     margin-top: 0px;
+    font-family: "sourcecodepro";
+}
+
+h3 {
+    font-family: "sourcecodepro";
+
 }
 
 bottom {
@@ -38,6 +45,7 @@ bottom {
     bottom: 0;
     margin-left: 10px;
     margin-bottom: 10px;
+    font-family: "sourcecodepro";
 }
 
 #notice {
