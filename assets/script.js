@@ -12,5 +12,4 @@ setInterval(()=>{
     return
   }
   document.getElementById("notice").style.marginLeft = `${windowwidth}px`
-  console.log(windowwidth)
 }, 25)
