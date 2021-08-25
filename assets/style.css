@@ -53,6 +53,7 @@ bottom {
     top: 4%;
     white-space: nowrap; 
     color: rgb(53, 54, 61);
+    z-index: 10;
 }
 
 #profile {
