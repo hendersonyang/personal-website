@@ -49,19 +49,19 @@ bottom {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    margin-top: 3rem;
+    margin-top: 1rem;
     width: inherit;
     position: absolute;
 }
 .card1 {
     margin: 0.2rem;
     padding: 1rem;
-    translate: -20%;
+    translate: -40%;
 }
 .card2 {
     margin: 0.2rem;
     padding: 1rem;
-    translate: 20%;
+    translate: 40%;
 }
 
 /*when screen is smaller than 600px*/
