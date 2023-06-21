@@ -8,7 +8,7 @@ let windowheight = window.innerHeight/100*4
 setInterval(()=>{
   windowwidth -= 2
   windowheight += 0.5
-  if (windowwidth < -300) {
+  if (windowwidth < -400) {
     windowwidth = window.innerWidth
     windowheight = window.innerHeight/100*4
     return
