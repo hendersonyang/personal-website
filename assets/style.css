@@ -51,6 +51,7 @@ bottom {
     flex-wrap: wrap;
     margin-top: 3rem;
     width: inherit;
+    position: absolute;
 }
 .card1 {
     margin: 0.2rem;
