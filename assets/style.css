@@ -34,7 +34,7 @@ bottom {
     bottom: 0;
     margin-left: 10px;
     margin-bottom: 10px;
-    font-family: "sourcecodepro";
+    opacity: 80%;
 }
 
 #notice {
